@@ -1,5 +1,11 @@
 INDEX VERSION 1.131
 C:\Struts2GettingStarted\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3600773921.index
 \struts2-hello-world\src
+C:\Struts2GettingStarted\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2643529010.index
+\struts2-hello-world-udemy\src
+C:\Struts2GettingStarted\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3280381130.index
+\struts2-hello-world\src
+C:\Struts2GettingStarted\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1303446824.index
+\struts2-hello-world\src
 C:\Struts2GettingStarted\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1395274550.index
 \struts2-hello-basic\src
