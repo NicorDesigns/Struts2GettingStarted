@@ -4,29 +4,28 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Enroll a new Insurance Agent</title>
+<title>enroll</title>
 <s:head/>
 </head>
 <body>
 
-<h3>Enroll a new Insurance Agent.</h3>
+<h3>enroll</h3>
 
     <s:form action="register">
       <!-- Agent Id to display here, not editable -->
-      <s:textfield name="agentBean.company" label="Comapny" />
-      <s:textfield name="agentBean.firstName" label="First name" />
-      <s:textfield name="agentBean.lastName" label="Last name" />
-      <s:textfield name="agentBean.midddleInitial"  label ="Middle initial"/>
-      <s:textfield name="agentBean.addressLine1"  label ="Address Line 1"/>
-      <s:textfield name="agentBean.addressLine2"  label ="Address Line 2"/>
-      <s:textfield name="agentBean.city"  label="City"  />
+      <s:textfield key="agentBean.company" />
+      <s:textfield key="agentBean.firstName" />
+      <s:textfield key="agentBean.lastName" />
+      <s:textfield key="agentBean.midddleInitial"/>
+      <s:textfield key="agentBean.addressLine1"/>
+      <s:textfield key="agentBean.addressLine2"/>
+      <s:textfield key="agentBean.city"/>
       <!-- State to be populated with a dropdown -->
-      <s:textfield name="agentBean.postalCodeZip"  label="Postal Code"  />
-      <s:textfield name="agentBean.email"  label="Email"  />
+      <s:textfield key="agentBean.postalCodeZip" />
+      <s:textfield key="agentBean.email" />
       <!-- Agent isActive Checkbox to Display here -->
-      <s:textfield name="agentBean.phoneNumber"  label="Phone Number"  />
-      
-      <s:submit/>
+      <s:textfield key="agentBean.phoneNumber" />
+      <s:submit key="submit"/>
     </s:form>	
 </body>
 </html>

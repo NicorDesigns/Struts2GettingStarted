@@ -10,7 +10,7 @@
 	<hr>
 	<ul>
 		<li><a href="<s:url action='helloWorld/Name'/>">HelloWorld</a></li>
-		<li><a href="<s:url action='InsuranceAgent/enroll'/>">Enroll Insurance Agent</a></li>
+		<li><a href="<s:url action='InsuranceAgent/registerInput'/>">Enroll Insurance Agent</a></li>
 	</ul>
 	<hr>
 </body>

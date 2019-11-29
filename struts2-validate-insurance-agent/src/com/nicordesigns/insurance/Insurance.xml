@@ -12,6 +12,9 @@
 			<result>/InsuranceAgent/register.jsp</result>
 		</action>
 		
+		<action name="registerInput" class="com.nicordesigns.insurance.action.Register" method="input">
+			<result name="input">/InsuranceAgent/register.jsp</result>
+		</action>
 		
 		<action name="register" class="com.nicordesigns.insurance.action.Register" method="execute">
             <result name="success">/InsuranceAgent/thankyou.jsp</result>
