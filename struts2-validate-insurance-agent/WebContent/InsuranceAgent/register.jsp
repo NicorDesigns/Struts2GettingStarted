@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>enroll</title>
+<title><s:text name="enroll"/></title>
 <s:head/>
 </head>
 <body>
 
-<h3>enroll</h3>
+<h3><s:text name="enroll"/></h3>
 
     <s:form action="register">
       <!-- Agent Id to display here, not editable -->

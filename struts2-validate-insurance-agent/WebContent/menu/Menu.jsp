@@ -2,15 +2,15 @@
 <%@ taglib prefix="s" uri="/struts-tags"%>
 <html>
 <head>
-<title>Struts 2 in Action: Menu</title>
+<title><s:text name="menutitle"/></title>
 </head>
 
 <body>
 
 	<hr>
 	<ul>
-		<li><a href="<s:url action='helloWorld/Name'/>">HelloWorld</a></li>
-		<li><a href="<s:url action='InsuranceAgent/registerInput'/>">Enroll Insurance Agent</a></li>
+		<li><a href="<s:url action='helloWorld/helloInput'/>"><s:text name="helloworld"/></a></li>
+		<li><a href="<s:url action='InsuranceAgent/registerInput'/>"><s:text name="helloenrollagent"></s:text></a></li>
 	</ul>
 	<hr>
 </body>

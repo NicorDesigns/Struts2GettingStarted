@@ -5,13 +5,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     
-<title>Enrollment Successful</title>
+<title><s:text name="successenroll"/></title>
 </head>
 <body>
-	<h3>Insurance Agent Registration Successful.</h3>
+	<h3><s:text name="successenroll"/></h3>
 
-    <p>Your registration information: <s:property value="agentBean" /> </p>
+    <p> <s:text name="registerinfo"></s:text> <s:property value="agentBean" /> </p>
 
-    <p><a href="<s:url action='../Menu' />" >Return to home page</a>.</p>
+    <p><a href="<s:url action='../Menu' />" ><s:text name="returnhomepage"/></a>.</p>
 </body>
 </html>

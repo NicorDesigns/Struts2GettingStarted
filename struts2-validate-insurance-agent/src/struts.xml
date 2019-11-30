@@ -15,6 +15,8 @@
         
     </package>
     
+    <constant name="struts.custom.i18n.resources" value="global" />
+    
     <include file="com/nicordesigns/helloworld/helloWorld.xml"/>
     <include file="com/nicordesigns/insurance/Insurance.xml"/>
 
