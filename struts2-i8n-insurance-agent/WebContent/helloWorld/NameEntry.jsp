@@ -3,12 +3,12 @@
 <html>
 
 <head>
-<title>Name Entry</title>
+<title><s:text name="hellonameentry"/></title>
 </head>
 
 <body>
 	<hr>
-	<h4>Please enter your name</h4>
+	<h4><s:text name="hellopleasenter"/></h4>
 	<s:form action="HelloWorld">
 		<s:textfield name="name" label="Your name" />
 		<s:submit />

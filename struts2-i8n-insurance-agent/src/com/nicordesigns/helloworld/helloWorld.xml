@@ -10,6 +10,10 @@
 		<action name="Name">
 			<result>/helloWorld/NameEntry.jsp</result>
 		</action>
+		
+		<action name="helloInput" class="com.nicordesigns.helloworld.HelloWorld" method="input">
+			<result name="input">/helloWorld/NameEntry.jsp</result>
+		</action>
 
 		<action name="HelloWorld" class="com.nicordesigns.helloworld.HelloWorld">
 			<result name="SUCCESS">/helloWorld/HelloWorld.jsp</result>
