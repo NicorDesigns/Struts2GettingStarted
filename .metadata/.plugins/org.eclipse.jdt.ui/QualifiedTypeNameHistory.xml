@@ -3,4 +3,5 @@
 <fullyQualifiedTypeName name="com.nicordesigns.helloworld.model.MessageStore"/>
 <fullyQualifiedTypeName name="java.math.BigInteger"/>
 <fullyQualifiedTypeName name="com.nicordesigns.insurance.model.Agent"/>
+<fullyQualifiedTypeName name="com.nicordesigns.insurance.exception.SecurityBreachException"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<!-- 
+  - This file is included by the struts.xml file as an insurance
+  - of how to break up the configuration file into multiple files.
+-->
+<struts>
+    <package name="insurance" namespace="/insurance" extends="struts-default">
+
+        <default-action-ref name="HelloWorld" />
+
+        <action name="HelloWorld" class="com.nicordesigns.insurance.admin.HelloWorld">
+            <result>/insurance/HelloWorld.jsp</result>
+        </action>
+
+        <action name="Login_*" method="{1}" class="com.nicordesigns.insurance.admin.Login">
+            <result name="input">/insurance/Login.jsp</result>
+            <result type="redirectAction">Menu</result>
+        </action>
+
+        <action name="*" class="com.nicordesigns.insurance.admin.AdminSupport">
+            <result>/insurance/{1}.jsp</result>
+        </action>
+
+        <!-- Add additional "insurance" package actions here. -->
+
+    </package>
+</struts>

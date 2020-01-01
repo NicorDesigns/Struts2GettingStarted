@@ -1,7 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-<typeInfo handle="=struts2-hello-world/C:\/Struts2GettingStarted\/struts2-hello-world\/WebContent\/WEB-INF\/lib\/struts2-core-2.5.20.jar&lt;com.opensymphony.xwork2(ActionSupport.class[ActionSupport" modifiers="33" timestamp="1573048059733"/>
-<typeInfo handle="=struts2-enroll-insurance-agent/C:\/Program Files\/Java\/jdk1.8.0_191\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1544669949472"/>
-<typeInfo handle="=struts2-enroll-insurance-agent/C:\/Program Files\/Java\/jdk1.8.0_191\/jre\/lib\/rt.jar&lt;java.lang(Cloneable.class[Cloneable" modifiers="1537" timestamp="1544669949472"/>
-<typeInfo handle="=struts2-enroll-insurance-agent/C:\/Struts2GettingStarted\/struts2-enroll-insurance-agent\/WebContent\/WEB-INF\/lib\/struts2-core-2.5.20.jar&lt;com.opensymphony.xwork2(ActionSupport.class[ActionSupport" modifiers="33" timestamp="1573048059733"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>
