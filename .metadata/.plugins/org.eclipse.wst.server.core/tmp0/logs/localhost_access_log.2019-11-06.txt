@@ -1,4 +1,0 @@
-127.0.0.1 - - [06/Nov/2019:08:52:25 -0500] "GET / HTTP/1.1" 404 1074
-0:0:0:0:0:0:0:1 - - [06/Nov/2019:08:52:27 -0500] "GET /struts2-hello-basic/ HTTP/1.1" 200 177
-0:0:0:0:0:0:0:1 - - [06/Nov/2019:08:52:49 -0500] "GET /struts2-hello-basic/index.action HTTP/1.1" 200 177
-0:0:0:0:0:0:0:1 - - [06/Nov/2019:08:53:26 -0500] "GET /struts2-hello-basic/index.action HTTP/1.1" 200 177

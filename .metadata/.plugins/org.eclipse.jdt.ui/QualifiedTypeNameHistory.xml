@@ -2,6 +2,18 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.nicordesigns.helloworld.model.MessageStore"/>
 <fullyQualifiedTypeName name="java.math.BigInteger"/>
-<fullyQualifiedTypeName name="com.nicordesigns.insurance.model.Agent"/>
 <fullyQualifiedTypeName name="com.nicordesigns.insurance.exception.SecurityBreachException"/>
+<fullyQualifiedTypeName name="org.apache.struts2.interceptor.SessionAware"/>
+<fullyQualifiedTypeName name="com.nicordesigns.insurance.admin.utils.AdministratorService"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.nicordesigns.insurance.admin.utils.Administrator"/>
+<fullyQualifiedTypeName name="com.nicordesigns.insurance.admin.utils.AdministratorAware"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionSupport"/>
+<fullyQualifiedTypeName name="com.nicordesigns.insurance.model.Agent"/>
+<fullyQualifiedTypeName name="com.nicordesigns.insurance.service.RegisterService"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.nicordesigns.insurance.model.State"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.Preparable"/>
 </qualifiedTypeNameHistroy>
