@@ -9,8 +9,6 @@
 		<item key="DIALOG_Y_ORIGIN" value="76"/>
 		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="General"/>
-			<item value="Java Browsing"/>
-			<item value="Web Services"/>
 		</list>
 	</section>
 </section>
