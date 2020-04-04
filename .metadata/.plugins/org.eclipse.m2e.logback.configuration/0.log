@@ -6318,3 +6318,8 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2020-04-02 16:33:38,729 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
 2020-04-02 16:33:39,020 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-04-02 16:33:39,020 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud3\src\test\resources
+2020-04-04 08:13:24,257 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-04 08:13:43,039 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-04 08:13:43,043 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-04 08:13:43,223 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-04 08:13:43,223 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud3\src\test\resources
