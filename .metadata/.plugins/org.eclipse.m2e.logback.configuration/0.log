@@ -6323,3 +6323,714 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2020-04-04 08:13:43,043 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
 2020-04-04 08:13:43,223 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-04-04 08:13:43,223 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud3\src\test\resources
+2020-04-05 08:34:22,802 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-05 08:34:40,941 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:34:40,946 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 08:34:41,456 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:34:41,456 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud3\src\test\resources
+2020-04-05 08:35:15,069 [Worker-4: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud3:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-05 08:35:15,692 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:35:15,693 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 08:35:15,730 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:35:15,730 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 08:35:16,943 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:35:16,949 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 08:35:16,973 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:35:16,973 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 08:36:26,456 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:36:26,457 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-05 08:36:26,458 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:36:26,458 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 08:36:58,435 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-05 08:36:58,806 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:36:58,806 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-05 08:36:58,807 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:36:58,807 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 08:36:58,807 [Worker-0: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-05 08:36:58,808 [Worker-0: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-05 08:36:58,813 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:41:08,919 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:41:08,922 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 08:41:08,929 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:41:08,929 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 08:41:57,858 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:41:57,860 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 08:41:57,863 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:41:57,863 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 08:45:02,285 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:45:02,288 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 08:45:02,291 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 08:45:02,291 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 09:00:01,222 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:00:01,224 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 09:00:01,227 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:00:01,227 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 09:01:43,293 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:01:43,296 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 09:01:43,298 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:01:43,298 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 09:02:37,495 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:02:37,498 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 09:02:37,500 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:02:37,500 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 09:03:26,155 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-05 09:03:26,521 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-05 09:03:26,687 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-05 09:03:26,688 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-05 09:03:26,688 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-05 09:03:26,971 [Worker-37: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-05 09:03:26,979 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-04-05 09:03:27,230 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:03:27,231 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 09:03:27,262 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:03:27,263 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 09:03:27,263 [Worker-36: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-05 09:03:27,263 [Worker-36: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-05 09:03:27,267 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:03:58,167 [Worker-38: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-05 09:03:58,168 [Worker-38: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-05 09:05:05,695 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:05:05,697 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 09:05:05,699 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:05:05,700 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 09:05:08,779 [Worker-38: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud3
+2020-04-05 09:05:08,794 [Worker-38: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-05 09:05:08,963 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:05:08,963 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 09:05:08,989 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:05:08,989 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud3\src\test\resources
+2020-04-05 09:05:08,990 [Worker-35: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud3
+2020-04-05 09:05:08,990 [Worker-35: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud3
+2020-04-05 09:05:08,997 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:05:09,097 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:05:09,098 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 09:05:09,122 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:05:09,122 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 09:05:09,122 [Worker-35: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-05 09:05:09,122 [Worker-35: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-05 09:05:09,125 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:07:42,860 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-05 09:07:43,184 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-05 09:07:43,807 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-05 09:07:43,807 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-05 09:07:43,808 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-05 09:07:44,076 [Worker-33: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-05 09:07:44,118 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-05 09:07:44,365 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:07:44,366 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 09:07:44,400 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:07:44,401 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 09:07:44,401 [Worker-36: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-05 09:07:44,401 [Worker-36: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-05 09:07:44,405 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:07:56,035 [Worker-34: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-05 09:07:56,035 [Worker-34: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-05 09:08:04,928 [Worker-39: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-05 09:08:05,074 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:08:05,074 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 09:08:05,141 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:08:05,142 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 09:08:05,142 [Worker-35: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-05 09:08:05,142 [Worker-35: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-05 09:08:05,145 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:10:52,866 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:10:52,868 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-05 09:10:52,871 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:10:52,871 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 09:12:25,106 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-05 09:12:25,431 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-05 09:12:26,197 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-05 09:12:26,197 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-05 09:12:26,198 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-05 09:12:26,475 [Worker-38: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-05 09:12:26,482 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-05 09:12:26,775 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:12:26,776 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 09:12:26,830 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 09:12:26,831 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 09:12:26,831 [Worker-38: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-05 09:12:26,831 [Worker-38: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-05 09:12:26,834 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:28:52,134 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-05 11:28:52,482 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-05 11:28:53,090 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-05 11:28:53,090 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-05 11:28:53,090 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-05 11:28:53,358 [Worker-70: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-05 11:28:53,358 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-05 11:28:54,028 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:28:54,028 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:28:54,059 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:28:54,059 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:28:54,059 [Worker-72: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-05 11:28:54,059 [Worker-72: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-05 11:28:54,059 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:29:08,954 [Worker-75: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-05 11:29:08,954 [Worker-75: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-05 11:29:18,094 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:29:18,110 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:29:18,110 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:29:18,110 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:29:20,702 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:29:20,702 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-05 11:29:20,702 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:29:20,702 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:29:21,767 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:29:21,767 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:29:21,767 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:29:21,767 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:47:12,802 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:47:12,802 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:47:12,817 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:47:12,817 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:47:44,009 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-05 11:47:44,311 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-05 11:47:44,898 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-05 11:47:44,898 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-05 11:47:44,898 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-05 11:47:45,146 [Worker-90: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-05 11:47:45,146 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-05 11:47:45,663 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:47:45,663 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:47:45,695 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:47:45,695 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:47:45,695 [Worker-90: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-05 11:47:45,695 [Worker-90: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-05 11:47:45,701 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:49:30,339 [Worker-90: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-05 11:49:30,339 [Worker-90: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-05 11:49:47,912 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:49:47,912 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:49:47,928 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:49:47,928 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:49:50,386 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:49:50,386 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-05 11:49:50,386 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:49:50,386 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:49:52,407 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:49:52,407 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:49:52,423 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:49:52,423 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:50:51,837 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:50:51,837 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:50:51,837 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:50:51,837 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:51:23,917 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:51:23,917 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:51:23,933 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:51:23,933 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:52:26,532 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-05 11:52:26,817 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-05 11:52:27,418 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-05 11:52:27,418 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-05 11:52:27,418 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-05 11:52:27,688 [Worker-92: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-05 11:52:27,688 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-05 11:52:28,205 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:52:28,205 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:52:28,236 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:52:28,236 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:52:28,236 [Worker-89: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-05 11:52:28,236 [Worker-89: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-05 11:52:28,236 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:52:38,365 [Worker-84: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-05 11:52:38,365 [Worker-84: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-05 11:52:51,018 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:52:51,018 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:52:51,018 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:52:51,033 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:53:09,764 [Worker-84: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-05 11:53:09,907 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:53:09,907 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:53:09,938 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:53:09,938 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:53:09,938 [Worker-92: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-05 11:53:09,938 [Worker-92: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-05 11:53:09,938 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:54:27,323 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:54:27,323 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:54:27,323 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:54:27,323 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:57:32,798 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:57:32,798 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:57:32,798 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:57:32,798 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:58:02,315 [Worker-84: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-05 11:58:02,315 [Worker-84: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-05 11:58:13,928 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:58:13,928 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:58:13,928 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:58:13,928 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:59:43,495 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:59:43,497 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:59:43,500 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:59:43,501 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 11:59:44,571 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:59:44,573 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 11:59:44,575 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 11:59:44,575 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 12:02:05,318 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:02:05,320 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 12:02:05,322 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:02:05,322 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 12:04:26,476 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:04:26,479 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 12:04:26,480 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:04:26,480 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 12:04:34,917 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:04:34,920 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 12:04:34,922 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:04:34,922 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 12:05:24,001 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:05:24,003 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 12:05:24,005 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:05:24,005 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 12:05:40,959 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:05:40,961 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 12:05:40,963 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:05:40,963 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 12:06:00,453 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:06:00,455 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 12:06:00,457 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:06:00,458 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 12:25:12,876 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:25:12,876 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-05 12:25:12,876 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:25:12,876 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 12:25:43,568 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-05 12:25:43,869 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-05 12:25:44,471 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-05 12:25:44,471 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-05 12:25:44,471 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-05 12:25:44,709 [Worker-104: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-05 12:25:44,709 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-05 12:25:45,210 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:25:45,210 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 12:25:45,241 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:25:45,241 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 12:25:45,241 [Worker-100: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-05 12:25:45,241 [Worker-100: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-05 12:25:45,241 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:26:03,872 [Worker-106: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-05 12:26:03,872 [Worker-106: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-05 12:26:13,854 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:26:13,854 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 12:26:13,854 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:26:13,854 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 12:26:18,445 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:26:18,445 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-05 12:26:18,445 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:26:18,445 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-05 12:26:20,487 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:26:20,487 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-05 12:26:20,487 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-05 12:26:20,487 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-07 15:57:51,860 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-07 15:57:55,931 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-07 15:57:55,936 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-07 15:57:56,059 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-07 15:57:56,060 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-07 15:58:22,564 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-07 15:58:22,578 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-07 15:58:22,579 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-07 15:58:22,579 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-07 15:59:19,036 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud3:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud3\pom.xml.
+2020-04-07 15:59:20,608 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-07 15:59:20,608 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-07 15:59:20,724 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-07 15:59:20,724 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud3\src\test\resources
+2020-04-08 09:24:37,704 [Worker-51: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud3
+2020-04-08 09:24:38,219 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:24:38,220 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-08 09:24:38,298 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:24:38,298 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud3\src\test\resources
+2020-04-08 09:24:38,299 [Worker-56: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud3
+2020-04-08 09:24:38,310 [Worker-56: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud3
+2020-04-08 09:24:38,508 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:25:17,410 [Worker-51: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud3:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-08 09:25:20,405 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:25:20,406 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-08 09:25:20,465 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:25:20,466 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-08 09:25:21,754 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:25:21,917 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-08 09:25:21,959 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:25:21,959 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-08 09:27:18,246 [Worker-58: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-08 09:27:19,217 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:27:19,221 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-08 09:27:19,224 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:27:19,225 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-08 09:27:19,225 [Worker-58: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-08 09:27:19,225 [Worker-58: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-08 09:27:19,228 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:27:36,208 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-08 09:27:36,555 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-08 09:27:37,270 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-08 09:27:37,272 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-08 09:27:37,272 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-08 09:27:37,747 [Worker-56: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-08 09:27:37,755 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-08 09:27:38,025 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:27:38,026 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-08 09:27:38,069 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 09:27:38,069 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-08 09:27:38,070 [Worker-56: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-08 09:27:38,070 [Worker-56: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-08 09:27:38,076 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:54:55,916 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:54:55,927 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-08 18:54:55,976 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:54:55,977 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-08 18:55:22,796 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:55:22,799 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-08 18:55:22,803 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:55:22,804 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-08 18:56:34,025 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:56:34,027 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-08 18:56:34,029 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:56:34,030 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-08 18:57:11,125 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-08 18:57:12,044 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-08 18:57:13,118 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-08 18:57:13,119 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-08 18:57:13,120 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-08 18:57:13,465 [Worker-85: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-08 18:57:13,471 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-04-08 18:57:13,762 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:57:13,763 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-08 18:57:13,814 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:57:13,814 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-08 18:57:13,814 [Worker-87: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-08 18:57:13,815 [Worker-87: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-08 18:57:13,820 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:58:44,735 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:58:44,741 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-08 18:58:44,745 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 18:58:44,745 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-08 19:05:32,168 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 19:05:32,170 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-08 19:05:32,174 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 19:05:32,174 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-08 19:05:59,423 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 19:05:59,425 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-08 19:05:59,429 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-08 19:05:59,430 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-09 11:36:39,509 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-09 11:36:39,556 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-09 11:36:39,572 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-09 11:36:39,572 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 07:45:04,307 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-11 07:45:15,847 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 07:45:15,852 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 07:45:16,075 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 07:45:16,075 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 08:02:24,348 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:02:24,359 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 08:02:24,362 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:02:24,362 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 08:03:56,380 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:03:56,380 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-11 08:03:56,381 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:03:56,381 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 08:04:27,807 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-11 08:04:28,844 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-11 08:04:29,704 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-11 08:04:29,704 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-11 08:04:29,705 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-11 08:04:30,140 [Worker-22: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-11 08:04:30,146 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-04-11 08:04:30,455 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:04:30,457 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 08:04:30,495 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:04:30,495 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 08:04:30,495 [Worker-25: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-11 08:04:30,496 [Worker-25: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-11 08:04:30,500 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:04:47,720 [Worker-20: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-11 08:04:47,721 [Worker-20: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-11 08:05:12,849 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:05:12,884 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 08:05:12,887 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:05:12,888 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 08:05:15,862 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:05:15,863 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-11 08:05:15,864 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:05:15,864 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 08:05:17,904 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:05:17,907 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 08:05:17,909 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:05:17,909 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 08:07:13,588 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:07:13,589 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-11 08:07:13,592 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:07:13,592 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 08:07:23,459 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-11 08:07:23,825 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-11 08:07:24,524 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-11 08:07:24,524 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-11 08:07:24,525 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-11 08:07:24,831 [Worker-22: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-11 08:07:24,836 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-11 08:07:25,174 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:07:25,175 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 08:07:25,249 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:07:25,250 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 08:07:25,250 [Worker-24: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-11 08:07:25,250 [Worker-24: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-11 08:07:25,255 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:07:49,639 [Worker-20: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-11 08:07:49,639 [Worker-20: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-11 08:07:58,367 [Worker-23: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-11 08:07:58,520 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:07:58,521 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 08:07:58,550 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 08:07:58,551 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 08:07:58,551 [Worker-20: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-11 08:07:58,551 [Worker-20: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-11 08:07:58,555 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:17:42,437 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:17:42,453 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 10:17:42,453 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:17:42,453 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 10:18:19,891 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:18:19,891 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-11 10:18:19,891 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:18:19,891 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 10:18:57,076 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-11 10:18:57,531 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-11 10:18:58,314 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-11 10:18:58,314 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-11 10:18:58,314 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-11 10:18:58,637 [Worker-63: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-11 10:18:58,637 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-11 10:18:58,953 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:18:58,953 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 10:18:59,015 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:18:59,015 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 10:18:59,015 [Worker-60: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-11 10:18:59,015 [Worker-60: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-11 10:18:59,031 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:19:13,610 [Worker-64: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-11 10:19:13,610 [Worker-64: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-11 10:19:23,841 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:19:23,856 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-11 10:19:23,856 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:19:23,856 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 10:19:26,934 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:19:26,934 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 10:19:26,934 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:19:26,934 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 10:20:27,139 [Worker-64: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-11 10:20:27,292 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:20:27,292 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 10:20:27,308 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 10:20:27,308 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 10:20:27,308 [Worker-57: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-11 10:20:27,323 [Worker-57: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-11 10:20:27,323 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:42:27,094 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:42:27,098 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 14:42:27,101 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:42:27,101 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 14:47:18,765 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:47:18,767 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 14:47:18,770 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:47:18,770 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 14:49:36,570 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:49:36,570 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-11 14:49:36,571 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:49:36,572 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 14:50:37,386 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-11 14:50:37,804 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-11 14:50:38,678 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-11 14:50:38,679 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-11 14:50:38,679 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-11 14:50:38,953 [Worker-92: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-11 14:50:38,959 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-11 14:50:39,295 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:50:39,296 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 14:50:39,336 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:50:39,336 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 14:50:39,337 [Worker-88: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-11 14:50:39,337 [Worker-88: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-11 14:50:39,344 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:50:51,750 [Worker-84: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-11 14:50:51,750 [Worker-84: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-11 14:51:01,004 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:51:01,007 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 14:51:01,010 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:51:01,011 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 14:51:03,515 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:51:03,515 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-11 14:51:03,517 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:51:03,517 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 14:51:06,818 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:51:06,820 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 14:51:06,823 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:51:06,823 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 14:53:59,522 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:53:59,525 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 14:53:59,527 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:53:59,527 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 14:54:25,817 [Worker-91: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-11 14:54:26,165 [Worker-91: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-11 14:54:26,933 [Worker-91: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-11 14:54:26,933 [Worker-91: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-11 14:54:26,935 [Worker-91: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-11 14:54:27,209 [Worker-91: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-11 14:54:27,214 [Worker-91: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-11 14:54:27,843 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:54:27,844 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 14:54:27,871 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:54:27,871 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 14:54:27,871 [Worker-95: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-11 14:54:27,871 [Worker-95: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-11 14:54:27,893 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:57:17,294 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:57:17,298 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 14:57:17,300 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 14:57:17,300 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 20:01:26,844 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:01:26,848 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 20:01:26,852 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:01:26,853 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 20:01:46,024 [Worker-182: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-11 20:01:46,911 [Worker-182: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-11 20:01:48,310 [Worker-182: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-11 20:01:48,310 [Worker-182: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-11 20:01:48,311 [Worker-182: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-11 20:01:48,596 [Worker-182: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-11 20:01:48,602 [Worker-182: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-04-11 20:01:49,356 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:01:49,357 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 20:01:49,485 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:01:49,485 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 20:01:49,486 [Worker-182: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-11 20:01:49,486 [Worker-182: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-11 20:01:49,490 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:02:06,136 [Worker-187: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-11 20:02:06,137 [Worker-187: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-11 20:02:23,694 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:02:23,697 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 20:02:23,700 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:02:23,700 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 20:02:41,130 [Worker-180: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-11 20:02:41,474 [Worker-180: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-11 20:02:42,100 [Worker-180: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-11 20:02:42,100 [Worker-180: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-11 20:02:42,101 [Worker-180: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-11 20:02:42,323 [Worker-180: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-11 20:02:42,349 [Worker-180: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-11 20:02:42,818 [Worker-186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:02:42,819 [Worker-186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 20:02:42,875 [Worker-186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:02:42,875 [Worker-186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 20:02:42,875 [Worker-186: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-11 20:02:42,875 [Worker-186: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-11 20:02:42,879 [Worker-186: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:03:15,466 [Worker-180: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-11 20:03:15,467 [Worker-180: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-11 20:03:34,566 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:03:34,568 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-11 20:03:34,568 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:03:34,568 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 20:04:01,760 [Worker-182: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-11 20:04:02,102 [Worker-182: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-11 20:04:02,757 [Worker-182: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-11 20:04:02,758 [Worker-182: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-11 20:04:02,758 [Worker-182: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-11 20:04:03,005 [Worker-182: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-11 20:04:03,010 [Worker-182: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-11 20:04:03,490 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:04:03,490 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 20:04:03,515 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:04:03,515 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 20:04:03,516 [Worker-182: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-11 20:04:03,516 [Worker-182: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-11 20:04:03,518 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:04:14,814 [Worker-179: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-11 20:04:14,814 [Worker-179: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-11 20:04:23,004 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:04:23,008 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 20:04:23,011 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:04:23,011 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 20:04:25,436 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:04:25,436 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-11 20:04:25,437 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:04:25,437 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-11 20:04:26,462 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:04:26,465 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-11 20:04:26,467 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-11 20:04:26,467 [Worker-188: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 08:04:20,298 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-12 08:04:28,477 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:04:28,486 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-12 08:04:28,934 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:04:28,934 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 08:04:32,612 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:04:32,615 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-12 08:04:32,617 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:04:32,617 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 08:44:26,561 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:44:26,573 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-12 08:44:26,577 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:44:26,578 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 08:44:53,398 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:44:53,401 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-12 08:44:53,404 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:44:53,404 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 08:45:33,614 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:45:33,617 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-12 08:45:33,628 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:45:33,628 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 08:46:50,712 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:46:50,715 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-12 08:46:50,720 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:46:50,720 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 08:47:25,804 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-12 08:47:26,741 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-12 08:47:28,036 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/main/java
+2020-04-12 08:47:28,037 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /struts2-insurance-admin-crud4/src/main/resources
+2020-04-12 08:47:28,038 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /struts2-insurance-admin-crud4/src/test/java
+2020-04-12 08:47:28,546 [Worker-38: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-12 08:47:28,555 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-04-12 08:47:28,930 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:47:28,931 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-12 08:47:28,988 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:47:28,988 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 08:47:28,988 [Worker-38: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-12 08:47:28,990 [Worker-38: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-12 08:47:28,998 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:47:43,863 [Worker-38: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Struts2GettingStarted\struts2-insurance-admin-crud4
+2020-04-12 08:47:43,863 [Worker-38: Launching struts2-insurance-admin-crud-clean-install] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2020-04-12 08:47:55,811 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:47:55,814 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-12 08:47:55,816 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:47:55,817 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 08:47:58,777 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:47:58,779 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-12 08:47:58,782 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 08:47:58,782 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 16:16:44,831 [Worker-103: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.nicordesigns:struts2-insurance-admin-crud4:0.0.1-SNAPSHOT @ C:\Struts2GettingStarted\struts2-insurance-admin-crud4\pom.xml.
+2020-04-12 16:16:46,011 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 16:16:46,012 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-12 16:16:46,045 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 16:16:46,046 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 16:16:49,831 [Worker-101: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for struts2-insurance-admin-crud4
+2020-04-12 16:16:50,092 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 16:16:50,092 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-12 16:16:50,142 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 16:16:50,142 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-12 16:16:50,143 [Worker-101: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of struts2-insurance-admin-crud4
+2020-04-12 16:16:50,143 [Worker-101: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for struts2-insurance-admin-crud4
+2020-04-12 16:16:50,148 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-15 08:04:34,578 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-15 08:04:59,170 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-15 08:04:59,280 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-04-15 08:05:00,433 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-15 08:05:00,434 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources
+2020-04-15 08:06:51,612 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-15 08:06:51,615 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-15 08:06:51,616 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-15 08:06:51,616 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Struts2GettingStarted\struts2-insurance-admin-crud4\src\test\resources

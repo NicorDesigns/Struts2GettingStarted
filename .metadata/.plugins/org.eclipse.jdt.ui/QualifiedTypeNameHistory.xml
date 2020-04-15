@@ -3,11 +3,8 @@
 <fullyQualifiedTypeName name="com.nicordesigns.helloworld.model.MessageStore"/>
 <fullyQualifiedTypeName name="java.math.BigInteger"/>
 <fullyQualifiedTypeName name="com.nicordesigns.insurance.exception.SecurityBreachException"/>
-<fullyQualifiedTypeName name="org.apache.struts2.interceptor.SessionAware"/>
-<fullyQualifiedTypeName name="com.nicordesigns.insurance.admin.utils.AdministratorService"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="com.nicordesigns.insurance.admin.utils.Administrator"/>
 <fullyQualifiedTypeName name="com.nicordesigns.insurance.admin.utils.AdministratorAware"/>
 <fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionSupport"/>
 <fullyQualifiedTypeName name="com.nicordesigns.insurance.model.Agent"/>
@@ -16,4 +13,11 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.nicordesigns.insurance.model.State"/>
 <fullyQualifiedTypeName name="com.opensymphony.xwork2.Preparable"/>
+<fullyQualifiedTypeName name="org.apache.struts2.interceptor.SessionAware"/>
+<fullyQualifiedTypeName name="com.nicordesigns.insurance.admin.utils.AdministratorService"/>
+<fullyQualifiedTypeName name="com.nicordesigns.insurance.admin.utils.Administrator"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.LogManager"/>
+<fullyQualifiedTypeName name="com.nicordesigns.insurance.admin.utils.Struts2InsuranceAdminConstants"/>
+<fullyQualifiedTypeName name="com.nicordesigns.insurance.admin.Struts2InsuranceAdminConstants"/>
 </qualifiedTypeNameHistroy>
