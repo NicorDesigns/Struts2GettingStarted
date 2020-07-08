@@ -1,7 +1,2 @@
 INDEX VERSION 1.4+C:\Struts2GettingStarted\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1606523338.index
-3534752315.index
-2743378977.index
-2660699374.index
-2307684550.index
-1564972987.index
+4268709172.index
