@@ -18,4 +18,6 @@ public interface AgentServiceInterface {
 
 	Integer insertAgent(Agent agent);
 
+	void deleteAgent(Integer id);
+
 }

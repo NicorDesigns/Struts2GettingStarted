@@ -18,8 +18,8 @@ public class Agent implements Serializable, Cloneable {
 	private String postalCodeZip;
 	private String email;
 	private String company;
-	private boolean isActive;
-	private boolean isExpensed;
+	private boolean active;
+	private boolean expensed;
 	
 
 	
@@ -59,8 +59,8 @@ public class Agent implements Serializable, Cloneable {
 		this.postalCodeZip = postalCodeZip;
 		this.email = email;
 		this.company = company;
-		this.isActive = active;
-		this.isExpensed = expensed;
+		this.active = active;
+		this.expensed = expensed;
 	}
 	public Integer getId() {
 		return id;
@@ -134,19 +134,19 @@ public class Agent implements Serializable, Cloneable {
 	
 	
 	public boolean isActive() {
-		return isActive;
+		return active;
 	}
 
 	public void setActive(boolean isActive) {
-		this.isActive = isActive;
+		this.active = isActive;
 	}
 	
 	public boolean isExpensed() {
-		return isExpensed;
+		return expensed;
 	}
 
 	public void setExpensed(boolean isExpensed) {
-		this.isExpensed = isExpensed;
+		this.expensed = isExpensed;
 	}
 
 	@Override
@@ -169,7 +169,7 @@ public class Agent implements Serializable, Cloneable {
 		return "Agent [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", midddleInitial="
 				+ midddleInitial + ", addressLine1=" + addressLine1 + ", addressLine2=" + addressLine2 + ", city="
 				+ city + ", stateId=" + stateId + ", state=" + state + ", postalCodeZip=" + postalCodeZip + ", email="
-				+ email + ", company=" + company + ", isActive=" + isActive + ", isExpensed=" + isExpensed + "]";
+				+ email + ", company=" + company + ", isActive=" + active + ", expensed=" + expensed + "]";
 	}
 
 }

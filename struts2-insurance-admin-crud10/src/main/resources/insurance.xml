@@ -39,14 +39,20 @@
             <result name="success">/insurance/agents.jsp</result>
         </action>
         
+        <action name="deleteAgent" class="com.nicordesigns.insurance.admin.AgentAction" method="delete">
+             <result name="success" type="redirectAction">list</result>
+        </action>
+        
         <action name="showAgent" class="com.nicordesigns.insurance.admin.AgentAction" method="show">
             <result name="success">/insurance/register.jsp</result>
         </action>
+        
         
         <action name="saveAgent" class="com.nicordesigns.insurance.admin.AgentAction" method="save">
         	<result name="input">/insurance/register.jsp</result>
             <result name="success" type="redirectAction">list</result>
         </action>
+        
         
         <action name="cancelAgent" class="com.nicordesigns.insurance.admin.AgentAction" method="cancel">
         	<result name="input">/insurance/register.jsp</result>

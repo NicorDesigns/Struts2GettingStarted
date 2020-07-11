@@ -111,8 +111,14 @@ public class AgentServiceImpl implements AgentServiceInterface {
 					+ "Y".equalsIgnoreCase((String) agentRow.get("AGENT_ACTIVE_YESNO")));
 			agent.setActive("Y".equalsIgnoreCase((String) agentRow.get("AGENT_ACTIVE_YESNO")));
 			logger.debug("Agent Object isActive Boolean value : " + agent.isActive());
+			
+			logger.debug("AGENT_EXPENSE_ENABLED_YESNO String value : " + (String) agentRow.get("AGENT_EXPENSE_ENABLED_YESNO"));
+			logger.debug("AGENT_EXPENSE_ENABLED_YESNO \"Y\".equalsIgnoreCase Boolean value : "
+					+ "Y".equalsIgnoreCase((String) agentRow.get("AGENT_EXPENSE_ENABLED_YESNO")));
 			agent.setExpensed("Y".equalsIgnoreCase((String) agentRow.get("AGENT_EXPENSE_ENABLED_YESNO")));
+			
 			agent.setCompany(String.valueOf(agentRow.get("COMPANY")));
+			
 			logger.debug("Setting Insurance Agent values : " + agent.toString());
 			agentList.add(agent);
 		}
@@ -161,6 +167,15 @@ public class AgentServiceImpl implements AgentServiceInterface {
 				+ "AGENT_ADDRESS_LINE2 = ?, AGENT_CITY = ?, AGENT_STATE_ID = ?, AGENT_POSTALCODE = ?, "
 				+ "AGENT_EMAIL = ?, AGENT_ACTIVE_YESNO = ?, AGENT_EXPENSE_ENABLED_YESNO = ?, "
 				+ "COMPANY = ? WHERE AGENT_ID = ?";
+		
+		logger.debug("Agent Object isActive Boolean value : " + agent.isActive());
+		logger.debug("Agent Object isExpensed Boolean value : " + agent.isExpensed());
+
+		String activeParameter = agent.isActive() ? "Y" : "N";
+		logger.debug("Agent Object activeParameter : " + activeParameter);
+
+		String expenseParameter = agent.isExpensed() ? "Y" : "N";
+		logger.debug("Agent Object expenseParameter : " + expenseParameter);
 
 		// define query arguments
 		Object[] params = new Object[] { agent.getFirstName(), agent.getLastName(),
@@ -193,6 +208,15 @@ public class AgentServiceImpl implements AgentServiceInterface {
 				+ "AGENT_ACTIVE_YESNO, AGENT_EXPENSE_ENABLED_YESNO, COMPANY)" + "VALUES (" + "?,?," + "?,?,?,"
 				+ "?,?,?,?," + "?,?,?)";
 
+		logger.debug("Agent Object isActive Boolean value : " + agent.isActive());
+		logger.debug("Agent Object isExpensed Boolean value : " + agent.isExpensed());
+
+		String activeParameter = agent.isActive() ? "Y" : "N";
+		logger.debug("Agent Object activeParameter : " + activeParameter);
+
+		String expenseParameter = agent.isExpensed() ? "Y" : "N";
+		logger.debug("Agent Object expenseParameter : " + expenseParameter);
+
 		// define query arguments
 		Object[] params = new Object[] { agent.getFirstName(), agent.getLastName(),
 				agent.getMidddleInitial(), agent.getAddressLine1(), agent.getAddressLine2(),
@@ -210,6 +234,18 @@ public class AgentServiceImpl implements AgentServiceInterface {
 		logger.debug("Number of rows inserted : " + row);
 		return row;
 
+	}
+
+	@Override
+	public void deleteAgent(Integer id) {
+		String deleteSql = "DELETE FROM INSURANCE_AGENTS WHERE AGENT_ID = ?";
+
+		Object[] params = { id };
+		int[] types = { Types.BIGINT };
+
+		int rows = jdbcTemplate.update(deleteSql, params, types);
+
+		logger.debug(rows + " row(s) deleted.");
 	}
 
 }

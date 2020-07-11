@@ -27,16 +27,16 @@ public static void main(String[] args) {
 			System.out.println("Current State (single sql select) "+ currentState.toString());
 		}
 		
-		Agent zombieAgent = new Agent("Nick", "Zombie", "C", "713 Fear Drive", 
-	    		  "Walking Deadville", "Atlanta", stateList.get(0).getStateId(), stateList.get(0), "30368", "nick.zombie@nicordesigns.tech", "Nicor", 
-	    		  false, false);
-		
-		System.out.println(zombieAgent);
-		
-		int generatedId = 0;
-	    generatedId = agentService.insertAgent(zombieAgent);
-	    System.out.println("Generated Id: " + generatedId);
-		
+//		Agent zombieAgent = new Agent("Nick", "Zombie", "C", "713 Fear Drive", 
+//	    		  "Walking Deadville", "Atlanta", stateList.get(0).getStateId(), stateList.get(0), "30368", "nick.zombie@nicordesigns.tech", "Nicor", 
+//	    		  true, true);
+//		
+//		System.out.println(zombieAgent);
+//		
+//		int generatedId = 0;
+//	    generatedId = agentService.insertAgent(zombieAgent);
+//	    System.out.println("Generated Id: " + generatedId);
+//		
 				
 
 		
@@ -47,12 +47,22 @@ public static void main(String[] args) {
 		}
 		
 		
-//		Agent agent = agentService.getAgent(3);
+		agentService.deleteAgent(13);
+		
+		for (Agent agent: agentList) {
+			System.out.println("Agent Object: " + agent.toString());
+		}
+		
+		
+//		Agent agent = agentService.getAgent(2);
 //		System.out.println("Get Agent Agent Id " + agent.getId() + ":" + agent.toString());
 //		
-//		agent.setMidddleInitial("B");
+//		agent.setExpensed(true);
+//		agent.setActive(true);
+//		
 //		agentService.updateAgent(agent);
-//		agent = agentService.getAgent(3);
+//		agent = agentService.getAgent(2);
+//		
 //		System.out.println("Get Agent Agent Id " + agent.getId() + ":" + agent.toString());
 //		
 		

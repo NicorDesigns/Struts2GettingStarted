@@ -7,6 +7,17 @@
         <link href="<s:url value='/css/main.css'/>" rel="stylesheet" type="text/css"/>
         <title><s:text name="label.agents"/></title>
     </head>
+    <script type="text/javascript">
+	    function confirmBox() {
+		   var answer;
+		   answer = window.confirm("Do you really want to perform this action");
+		   if (answer == true) {
+		      return true;
+		   } else {
+		      return false;
+		   }
+		}
+    </script>
 <body>
 	<div class="titleDiv"><s:text name="application.title"/></div>
     <h1><s:text name="label.agents"/></h1>
@@ -66,7 +77,15 @@
                         </s:url>
                         <a href="<s:property value="#url"/>">Edit</a>
                         &nbsp;&nbsp;&nbsp;
-                    </td>
+                        <s:url action="deleteAgent" var="urlD">
+                            <s:param name="agent.Id" value="id"/>
+                        </s:url>
+                        <a href="<s:property value="#urlD"/>" onclick = "return confirmBox();">Delete</a>
+                        
+                        
+                  </td>
+                    
+                    
                 </tr>
             </s:iterator>
         </table>

@@ -77,25 +77,40 @@ private static final long serialVersionUID = 9179369667743801381L;
 			LOG.info("Getting Agent Id Value : " + agentId);
 			int i = Integer.parseInt(agentId);
 			agent = agentService.getAgent(i); // Autoboxing int Integer happening here
-			LOG.info("Populate an Agent Display form with :" + agent);
+			LOG.info("Populate an Agent Display form with :" + agent.toString());
 		}
 		return SUCCESS;
 	}
     
     public String save() {
     	LOG.info("In Save Method for : " + agentId);
-    	 if (agent.getId() != null) {
+    	 
+    	if (agent.getId() != null) {
+    	
+    		 LOG.info("Updating Agent: " + agent.toString());
+    		    
     		 agentService.updateAgent(agent);
+    		 
     		 LOG.info("Updated Agent: " + agent);
+    	 
     	 } else {
- 			Integer insertAgent = agentService.insertAgent(agent);
- 			LOG.info("Created new Agent: " + insertAgent);
- 		}
+ 	
+    		 LOG.info("Creating new Agent: " + agent);
+    		 Integer insertAgent = agentService.insertAgent(agent);
+ 			 LOG.info("Created new Agent: " + insertAgent);
+ 		
+    	 }
         return SUCCESS;
     }
     
     public String cancel() {
     	LOG.info("In Cancel Method for : " + agentId);
+        return SUCCESS;
+    }
+    
+    public String delete() {
+        agentService.deleteAgent(agent.getId());
+        LOG.info("Deleted Agent: " + agent);
         return SUCCESS;
     }
 

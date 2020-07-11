@@ -32,8 +32,8 @@
       <s:select name="agent.state.stateId" list="states" listKey="stateId" listValue="stateName" label="%{getText('agent.state')}"/>
       <s:textfield key="agent.postalCodeZip" />
       <s:textfield key="agent.email" />
-      <s:checkbox key="agent.isActive" />
-      <s:checkbox key="agent.isExpensed" />
+      <s:checkbox key="agent.active" />
+      <s:checkbox key="agent.expensed" />
       <s:hidden name="agent.Id" value="%{agent.Id}"/>
       
       <s:submit value="%{getText('button.label.submit')}"/>

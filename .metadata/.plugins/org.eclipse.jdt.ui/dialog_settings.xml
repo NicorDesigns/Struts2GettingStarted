@@ -34,8 +34,8 @@
 		</section>
 	</section>
 	<section name="RefactoringWizard.preview">
-		<item key="width" value="1039"/>
-		<item key="height" value="645"/>
+		<item key="width" value="1019"/>
+		<item key="height" value="625"/>
 	</section>
 	<section name="SelfEncapsulateFieldWizard">
 		<item key="GenerateJavadoc" value="false"/>
